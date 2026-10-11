@@ -56,7 +56,7 @@ A modern, scalable, and well-structured project built with clean coding practice
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=prathmesh&theme=tokyonight" />
 </p>
 
 ---
