@@ -41,6 +41,8 @@ A modern, scalable, and well-structured project built with clean coding practice
 - 🚀 Modern Web Development
 
 
+LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
+
 
 
 ## 🛠️ Tech Stack
