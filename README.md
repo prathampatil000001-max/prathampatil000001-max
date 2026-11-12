@@ -137,7 +137,8 @@ More details: [docs/PROJECTS.md](./docs/PROJECTS.md) · Learning log: [docs/LEAR
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Rounak-Lakhara&theme=dark&background=0B0F14&ring=00E676&fire=00E676&currStreakLabel=00E676&border=64748B" alt="GitHub streak stats" />
+  <img src="https://streak-stats.demolab.com/?user=prathampatil000001-max
+&theme=dark&background=0B0F14&ring=00E676&fire=00E676&currStreakLabel=00E676&border=64748B" alt="GitHub streak stats" />
 </p>
 
 <p align="center">
