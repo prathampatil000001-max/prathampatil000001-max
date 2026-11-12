@@ -89,36 +89,6 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
   Thanks for visiting my profile! ⭐
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F14,100:00E676&height=220&section=header&text=Rounak%20Kumar%20Lakhara&fontSize=50&fontColor=ffffff&animation=fadeIn" alt="Rounak Kumar Lakhara profile header" />
-</p>
-
-<h3 align="center">
-  <samp>&gt; Hey there! I am <b><a target="_blank" href="https://www.linkedin.com/in/rounak-kumar-lakhara-52825b427/">Rounak Kumar Lakhara</a></b></samp>
-</h3>
-
-<p align="center">
-  <samp>「 First-year B.Tech CSE (AI) student building web projects and learning to think like a programmer 」</samp>
-</p>
-
-
-
-<p align="center">
-  <img src="./docs/assets/svg/hero_card.svg" width="82%" alt="Terminal card: Rounak Kumar Lakhara, B.Tech CSE (AI) first year, learner at CodingGita" />
-</p>
-
-<p align="center"><img src="./docs/assets/svg/divider.svg" width="100%" alt="Section divider" /></p>
-
-## 👋 About Me
-
-- 🎓 First-year **B.Tech Computer Science (AI)** at **Swaminarayan University**
-- 💻 Learner at **CodingGita**
-- 🧠 Goal: not just learn syntax, but **think like a programmer**, solve unfamiliar problems and build real projects
-- 🌱 Currently following a **30-day JavaScript roadmap** (variables → loops → arrays → functions → DOM → async → final project)
-- 🚀 Brand I'm building: **PseudoCoders Tech** — *Build · Learn · Create*
-- 🗣️ I talk in **Hinglish + English**
-
-<p align="center"><img src="./docs/assets/svg/divider.svg" width="100%" alt="Section divider" /></p>
 
 ## 🛠 Tech & Tools
 
@@ -171,7 +141,8 @@ More details: [docs/PROJECTS.md](./docs/PROJECTS.md) · Learning log: [docs/LEAR
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rounak-Lakhara&theme=radical" alt="GitHub profile summary card" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathampatil000001-max
+&theme=radical" alt="GitHub profile summary card" />
 </p>
 
 <p align="center"><img src="./docs/assets/svg/divider.svg" width="100%" alt="Section divider" /></p>
