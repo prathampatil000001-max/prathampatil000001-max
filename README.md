@@ -55,21 +55,21 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
     <text x="130" y="170" font-size="17" fill="#F4F6F8" font-weight="600">HTML + CSS</text>
     <text x="130" y="192" font-size="13" fill="#00E676">done</text>
 
-<circle cx="450" cy="125" r="20" fill="#0B0F14" stroke="#00E676" stroke-width="4">
+  <circle cx="450" cy="125" r="20" fill="#0B0F14" stroke="#00E676" stroke-width="4">
       <animate attributeName="r" values="20;23;20" dur="3s" repeatCount="indefinite"/>
     </circle>
     <text x="450" y="170" font-size="17" fill="#F4F6F8" font-weight="600">JavaScript</text>
     <text x="450" y="192" font-size="13" fill="#00E676">in progress</text>
 
-  circle cx="610" cy="125" r="14" fill="#0B0F14" stroke="#64748B" stroke-width="3"/>
+  <circle cx="610" cy="125" r="14" fill="#0B0F14" stroke="#64748B" stroke-width="3"/>
     <text x="610" y="170" font-size="17" fill="#cbd5e1" font-weight="600">DSA in JS</text>
     <text x="610" y="192" font-size="13" fill="#64748B">next</text>
 
-  circle cx="770" cy="125" r="14" fill="#0B0F14" stroke="#64748B" stroke-width="3"/>
+  <circle cx="770" cy="125" r="14" fill="#0B0F14" stroke="#64748B" stroke-width="3"/>
     <text x="770" y="170" font-size="17" fill="#cbd5e1" font-weight="600">Node.js backend</text>
     <text x="770" y="192" font-size="13" fill="#64748B">next</text>
 
-  rect x="320" y="58" width="260" height="30" rx="15" fill="#0B0F14" stroke="#f59e0b" stroke-opacity="0.8"/>
+  <rect x="320" y="58" width="260" height="30" rx="15" fill="#0B0F14" stroke="#f59e0b" stroke-opacity="0.8"/>
     <text x="450" y="78" font-size="14" fill="#f59e0b">Python roadmap alongside</text>
   </g>
 </svg>
