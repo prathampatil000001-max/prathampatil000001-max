@@ -183,4 +183,84 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 </div>
 
 
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:581C87,100:A855F7&height=190&section=header&text=Pratham%20Patil&fontSize=48&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=60&descSize=17"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=Welcome+to+my+GitHub;Building+Ideas+Into+Reality;Learn.+Build.+Grow." />
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=prathampatil000001&style=flat-square&color=9333EA&label=PROFILE+VIEWS"/>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+Hi, I'm **Pratham Patil**!
+
+- 💻 Passionate about technology and programming.
+- 🌱 Always learning new technologies.
+- 🚀 Interested in building creative projects.
+- 🎯 Focused on continuous improvement.
+- 🤝 Open to collaboration and opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,python,java,cpp,react,nodejs,mongodb,mysql,git,github,vscode&theme=dark&perline=7"/>
+
+</div>
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathampatil000001&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathampatil000001&theme=midnight-purple&hide_border=true"/>
+
+<br/>
+
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatil000001&layout=compact&theme=midnight-purple&hide_border=true"/>
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001&bg_color=09090B&color=C084FC&line=A855F7&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/prathampatil000001">
+<img src="https://img.shields.io/badge/GitHub-Profile-9333EA?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### ✨ "Dream. Develop. Deliver."
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09090B,50:581C87,100:A855F7&height=100&section=footer"/>
+
+</div>
+
+
+
 
