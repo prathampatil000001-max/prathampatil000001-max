@@ -119,5 +119,6 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
 <h3 align="center">⚡ ALWAYS LEARNING | ALWAYS BUILDING ⚡</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatil000001-max
+&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
