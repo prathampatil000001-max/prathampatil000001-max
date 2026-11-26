@@ -90,129 +90,97 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
 </p>
 
 
+<div align="center">
 
-<!--
-  _____           _   _                     _
- |  __ \         | | | |                   | |
- | |__) | __ __ _| |_| |__   __ _ _ __ ___ | |
- |  ___/ '__/ _` | __| '_ \ / _` | '_ ` _ \| |
- | |   | | | (_| | |_| | | | (_| | | | | | |_|
- |_|   |_|  \__,_|\__|_| |_|\__,_|_| |_| |_(_)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1D4ED8,100:38BDF8&height=200&section=header&text=PRATHAM%20PATIL&fontSize=48&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=Developer%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18"/>
 
--->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Building+Digital+Experiences;Turning+Ideas+Into+Code;Learning+Something+New+Every+Day;Welcome+To+My+GitHub+Profile" />
+
+</div>
+
+---
+
+## 👋 About Me
+
+Hello! I'm **Pratham Patil**, a passionate developer interested in technology, software development, and creative problem-solving.
+
+- 💻 Exploring the world of programming.
+- 🚀 Building projects and learning by doing.
+- 🌱 Continuously improving my technical skills.
+- 🎯 Focused on writing clean and efficient code.
+- 🤝 Interested in collaborating on innovative projects.
+
+---
+
+## 🧰 My Tech Stack
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:6A00FF,100:00E5FF&height=220&section=header&text=PRATHAM%20PATIL&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=PLAYER%20ONE%20%7C%20DEVELOPER&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,python,java,git,github,vscode&perline=5&theme=dark" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=22&pause=900&color=00E5FF&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+DIGITAL+WORLD;CODE+%7C+CREATE+%7C+CONQUER;LEVELING+UP+EVERY+DAY;FUTURE+DEVELOPER+IN+PROGRESS" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1"/>
 
 </div>
 
 ---
 
-## 🎮 PLAYER PROFILE
-
-```yaml
-PLAYER: Pratham Patil
-CLASS: Developer
-STATUS: Online 🟢
-MISSION: Building the Future
-CURRENT_LEVEL: Learning & Growing
-SPECIAL_POWER: Creative Thinking
-GOAL: Become an Exceptional Developer
-```
-
-## ⚡ TECH ARSENAL
+## 📈 Contribution Activity
 
 <div align="center">
 
-### 💻 Programming Languages
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
-
-### 🎨 Frontend Development
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
-
-### ⚙️ Backend & Database
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-
-### 🛠️ Tools & Gaming Setup
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,figma&theme=dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0F172A&color=38BDF8&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
 ---
 
-## 🏆 PLAYER STATISTICS
+## 🐍 Contribution Journey
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=prathampatil000001-max
-&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" width="49%" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampatil000001-max
-&theme=tokyonight&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatil000001-max
-E&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
 ---
 
-## 🎯 QUEST: CONTRIBUTION MAP
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max
-&bg_color=0d1117&color=00e5ff&line=8a2be2&point=ffffff&area=true&hide_border=true&custom_title=PLAYER%20ACTIVITY%20MAP" width="100%" />
-
-</div>
-
----
-
-## 👾 SNAKE GAME — EAT THE CONTRIBUTIONS!
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com//prathampatil000001-max
-/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
-</div>
-
----
-
-## 🌐 CONNECT WITH PLAYER
-
-<div align="center">
-
-<a href="https://github.com/prathampatil000001-max
-">
-<img src="https://img.shields.io/badge/GitHub-PLAYER-181717?style=for-the-badge&logo=github"/>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-CONTACT-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</div>
+<br/><br/>
 
-<div align="center">
+### ✨ "Code. Learn. Build. Repeat."
 
-### 🔥 GAME NEVER OVER — KEEP BUILDING!
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:6A00FF,100:050505&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:1D4ED8,100:0F172A&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
