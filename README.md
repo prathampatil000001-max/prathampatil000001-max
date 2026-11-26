@@ -91,39 +91,33 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
 
 
 
-<h2 align="center">⚡ My Tech Stack ⚡</h2>
+
+<h2 align="center">🚀 TECH ARSENAL</h2>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Technologies+I+Work+With;Always+Learning+New+Things;Building+Something+Awesome!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=25&duration=2500&pause=500&color=00FFFF&center=true&vCenter=true&width=600&lines=FULL+STACK+DEVELOPER;CODE.+CREATE.+INNOVATE.;WELCOME+TO+MY+TECH+WORLD!" />
 </p>
 
-<h3 align="center">💻 Languages</h3>
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,docker&theme=dark" />
+
+</div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,ts&theme=dark" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=3&section=header" width="100%"/>
 </p>
 
-<h3 align="center">🎨 Frontend Development</h3>
+<h3 align="center">⚡ ALWAYS LEARNING | ALWAYS BUILDING ⚡</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,bootstrap&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
-
-<h3 align="center">⚙️ Backend Development</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
-</p>
-
-<h3 align="center">🛠️ Tools & Platforms</h3>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,postman,docker&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&area=true" width="100%" />
-</p>
-
-
-
