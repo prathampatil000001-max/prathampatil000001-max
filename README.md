@@ -126,13 +126,13 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathampatil000001E&show_icons=true&hide_border=true&theme=transparent&title_color=38BDF8&icon_color=38BDF8&text_color=CBD5E1"/>
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathampatil000001&theme=transparent&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
 
 <br/>
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1"/>
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatil000001&layout=compact&hide_border=true&theme=transparent&title_color=38BDF8&text_color=CBD5E1"/>
 
 </div>
 
@@ -142,7 +142,7 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0F172A&color=38BDF8&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001&bg_color=0F172A&color=38BDF8&line=3B82F6&point=FFFFFF&area=true&hide_border=true" width="100%"/>
 
 </div>
 
@@ -152,7 +152,7 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prathampatil000001/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -162,7 +162,7 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prathampatil000001">
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
