@@ -77,6 +77,8 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
   <img src="https://streak-stats.demolab.com?user=prathampatil000001-max&theme=tokyonight" />
 </p>
 
+[![Het's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ---
 
 ## 🌟 Quote
