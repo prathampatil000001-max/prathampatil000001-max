@@ -84,17 +84,6 @@ LEARN  →  BUILD  →  COMMIT  →  PUSH  →  IMPROVE  →  REPEAT
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max&bg_color=0d1117&color=8b949e&line=2ea44f&point=8b949e&area=true&area_color=2ea44f&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 </p><h3 align="center">My Contribution Graph</h3>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max&bg_color=0d1117&color=8b949e&line=2ea44f&point=8b949e&area=true&area_color=2ea44f&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p><h3 align="center">My Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max&bg_color=0d1117&color=8b949e&line=2ea44f&point=8b949e&area=true&area_color=2ea44f&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p><h3 align="center">My Contribution Graph</h3>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max&bg_color=0d1117&color=8b949e&line=2ea44f&point=8b949e&area=true&area_color=2ea44f&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-</p>
 
 ## 🌟 Quote
 
