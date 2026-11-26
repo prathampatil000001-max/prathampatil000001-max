@@ -155,11 +155,14 @@ GOAL: Become an Exceptional Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=prathampatil000001-max
+&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github" width="49%" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathampatil000001-max
+&theme=tokyonight&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathampatil000001-max
+E&layout=compact&theme=tokyonight&hide_border=true" width="55%" />
 
 </div>
 
@@ -169,7 +172,8 @@ GOAL: Become an Exceptional Developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00e5ff&line=8a2be2&point=ffffff&area=true&hide_border=true&custom_title=PLAYER%20ACTIVITY%20MAP" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathampatil000001-max
+&bg_color=0d1117&color=00e5ff&line=8a2be2&point=ffffff&area=true&hide_border=true&custom_title=PLAYER%20ACTIVITY%20MAP" width="100%" />
 
 </div>
 
@@ -179,7 +183,8 @@ GOAL: Become an Exceptional Developer
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%" />
+<img src="https://raw.githubusercontent.com//prathampatil000001-max
+/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
 </div>
 
@@ -189,7 +194,8 @@ GOAL: Become an Exceptional Developer
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/prathampatil000001-max
+">
 <img src="https://img.shields.io/badge/GitHub-PLAYER-181717?style=for-the-badge&logo=github"/>
 </a>
 
