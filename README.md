@@ -152,7 +152,7 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/prathampatil000001/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/prathampatil000001/prathampatil000001/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 
 </div>
 
@@ -166,7 +166,7 @@ Hello! I'm **Pratham Patil**, a passionate developer interested in technology, s
 <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/in/pratham bonde">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
