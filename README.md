@@ -21,8 +21,7 @@
 ## 💻DESCRIPTION  
 A modern, scalable, and well-structured project built with clean coding practices and maintainability in mind. This repository provides an efficient solution with clear documentation, modular architecture, and an easy setup process. It is designed for developers who want to learn, contribute, or build upon the project. Contributions, feedback, and suggestions are always welcome to help improve and expand its functionality. 
 <br>
-![Profile Views](https://komarev.com/ghpvc/?username=prathampatil000001-max
-&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=prathampatil000001-max&color=FFD700&style=for-the-badge&label=PROFILE+VIEWS)
 &nbsp;
 
 
